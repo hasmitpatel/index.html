@@ -1,0 +1,21 @@
+h1 {
+    background-color: pink;
+}
+h2 {
+    color: brown;
+}
+p {
+    background-color: palevioletred;
+}
+main img {
+    float: left;
+    margin: 0 1em 1em 0;
+}
+
+div {
+    background-image: url('animalimg1.jpeg');
+  }
+body {
+    background-image: image('animals.jpeg');
+    background-color: salmon;
+}
